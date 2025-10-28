@@ -84,9 +84,6 @@ def aciertos_y_fallos(reference_array, marco):
 
     print(f'Total de fallos de página: {fallos_pg}')
     return fallos_pg
-
-secuencia = [7, 0, 1, 2, 0, 3, 0, 4, 2, 3, 0, 3, 2, 1, 2, 0]
-aciertos_y_fallos(secuencia, 3)
 # -----------------------------------------
 
 
